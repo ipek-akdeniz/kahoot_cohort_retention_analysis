@@ -31,7 +31,7 @@ retention behavior is tracked over time.
 - User retention drops sharply after month 3, suggesting engagement strategies may be needed.
 - Some cohorts show stronger retention, which could indicate successful onboarding periods.
 - Improving early user experience could significantly increase long-term retention.
-- 
+  
 ## Dashboard
-(cohort_heatmap.PNG)
+![Cohort_Heatmap](cohort_heatmap.PNG)
 Cohort heatmap visualization of retention rates.
