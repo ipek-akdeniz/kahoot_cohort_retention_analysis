@@ -34,4 +34,5 @@ retention behavior is tracked over time.
   
 ## Dashboard
 ![Cohort_Heatmap](cohort_heatmap.PNG)
+
 Cohort heatmap visualization of retention rates.
